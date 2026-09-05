@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_Hola Mundo-Flowir"/>
+        <attribute name="authors" value="bisonte"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-09-03 06:30:19 p. m."/>
+        <attribute name="created" value="Ymlzb250ZTtERVNLVE9QLTNUN09HT087MjAyNi0wOS0wMzswNTo1NjozMiBwLiBtLjszMzEy"/>
+        <attribute name="edited" value="Ymlzb250ZTtERVNLVE9QLTNUN09HT087MjAyNi0wOS0wMzswNjozMDoxOSBwLiBtLjsyOzM0MTk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Bienvenidos a Fundamentos de programacion&quot;" newline="True"/>
+            <output expression="&quot;Jes&#250;s Emanuel Ramos Espa&#241;a&quot;" newline="True"/>
+            <output expression="&quot;Tu calificaci&#243;n sera&quot;" newline="False"/>
+            <output expression="85" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

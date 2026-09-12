@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_5_Captura2"/>
+        <attribute name="authors" value="bisonte"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-09-10 06:46:25 p. m."/>
+        <attribute name="created" value="Ymlzb250ZTtERVNLVE9QLTNUN09HT087MjAyNi0wOS0xMDswNjoyNjozMCBwLiBtLjszMzA2"/>
+        <attribute name="edited" value="Ymlzb250ZTtERVNLVE9QLTNUN09HT087MjAyNi0wOS0xMDswNjo0NjoyNSBwLiBtLjsxOzM0MjA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nombre" type="String" array="False" size=""/>
+            <declare name="Edad" type="Integer" array="False" size=""/>
+            <declare name="Salario" type="Real" array="False" size=""/>
+            <output expression="&quot;Captura el nombre&quot;" newline="True"/>
+            <input variable="Nombre"/>
+            <output expression="&quot;Introduce tu edad&quot;" newline="True"/>
+            <input variable="Edad"/>
+            <output expression="&quot;Cuanto ganas&quot;" newline="True"/>
+            <input variable="Salario"/>
+            <output expression="&quot;Nombre: &quot;" newline="False"/>
+            <output expression="Nombre" newline="True"/>
+            <output expression="&quot;Tu edad: &quot;" newline="False"/>
+            <output expression="Edad" newline="True"/>
+            <output expression="&quot;Tu salario: $&quot;" newline="False"/>
+            <output expression="Salario" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
